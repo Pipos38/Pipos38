@@ -20,9 +20,11 @@
 
 ## 📂 Proyectos destacados
 
-🔹 [Dashboard de análisis de vehículos](https://github.com/Pipos38/vehicles_dashboard)  
-🔹 [Test A/B para e-commerce](https://github.com/Pipos38/Test-A-B)  
-🔹 [Comparativa de planes móviles](https://github.com/Pipos38/Analisis-Estadistico)
+🔸 [🚗 Análisis exploratorio de vehículos usados](https://github.com/Pipos38/vehicles_dashboard)  
+🔸 [🧪 A/B Test para tienda online](https://github.com/Pipos38/Test-A-B)  
+🔸 [📱 Comparativa de ingresos por planes móviles](https://github.com/Pipos38/Analisis-Estadistico)  
+🔸 [📊 Análisis de marketing para Showz (LTV, CAC, ROMI)](https://github.com/Pipos38/marketing_analytics_showz)  
+🔸 [🚕 Análisis y prueba de hipótesis con datos de taxis en Chicago](https://github.com/Pipos38/chicago_taxi_analysis)
 
 ---
 

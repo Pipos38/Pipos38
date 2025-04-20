@@ -39,5 +39,5 @@
 
 📫 **Email:** felipe38@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/felipe-rodriguez-datos) 
-🌎 Bogotá, Colombia
+🌎 Bogotá, Colombia.
 
